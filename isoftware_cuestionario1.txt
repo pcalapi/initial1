@@ -1,0 +1,10 @@
+1	Cual de las siguientes alternativas se ajusta a la definicion de proyecto	c.- desarrollo portal web
+2	todo proyecto debe tener un  patrocinador que es la persona que			c.- financia el proyecto
+3	Cual de los siguientes metodos se considera orientado al producto		a.- scrum
+4	cuando hablamos del ciclo de vida del proyecto nos referimos en			b.- actividades de gestion
+5	los proyectos se ven afectados por restricciones, las cuales condicionan el resultado	c.- triple restriccion
+6	Los WBS contienen informacion sobre						b.- el alcance del proyecto
+7	cual de los siguientes alternativas denota un entregable			b.- la arquitectura
+8	si un proyecto se ve afectado en su linea base, el gestor de proyectos debe	b.- utilizar el proceso de control de cambios
+9	En general se puede decir que un stake holder es				a.- cualquier persona afectada
+10	Entre las areas de conocimiento que propone PMBOK, cual no forma parte de ellas	a.- gestión financiera
