@@ -8,3 +8,5 @@
 8	si un proyecto se ve afectado en su linea base, el gestor de proyectos debe	b.- utilizar el proceso de control de cambios
 9	En general se puede decir que un stake holder es				a.- cualquier persona afectada
 10	Entre las areas de conocimiento que propone PMBOK, cual no forma parte de ellas	a.- gestión financiera
+
+11 archivo modificado para ver como trabaja github
